@@ -12,7 +12,7 @@ Portfolio personal
 - Tiene un diseño responsive para diferentes pantallas
 - Es un sitio web accesible
 
-[👉 Haciendo click acá podés verlo materializado ✨](https://karyquinteros.github.io/portfolio/)
+[👉 Haciendo click acá podés verlo materializado ✨](https://karyquinteros.github.io/portfolio_karina/)
 
 
 
